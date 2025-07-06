@@ -1,0 +1,9 @@
+# Finansal Takip Uygulaması - Robots.txt
+
+User-agent: *
+Disallow: /api/
+Disallow: /admin/
+Allow: /
+
+# Sitemap
+Sitemap: /sitemap.xml
